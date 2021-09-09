@@ -17,7 +17,6 @@ public class Trainer {
 
         Animal a2 = new Animal();
         Bird b2 = new Bird();
-
     }
 
     private static void getToSpeak(Animal animal) {
